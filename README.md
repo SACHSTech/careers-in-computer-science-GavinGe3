@@ -19,11 +19,11 @@ For many positions, a bachelors in computer science or a related degree such as 
 
 ## Technical and soft skills
 
-|| Technical Skills|Soft Skills|
-| ------------- |:-------------:|:-----:|
-||- Experience with game development engines such as Unreal Engine and Unity| - Interpersonal skills and the ability to work in a team environment|
-|| - The ability to code in common game programming languages - C# and C++|- Strong Analytical and Organizational Ability|
-|| ||
+| Technical Skills|Soft Skills|
+|:-------------:|:-----:|
+|- Experience with game development engines such as Unreal Engine and Unity| - Interpersonal skills and the ability to work in a team environment|
+| - The ability to code in common game programming languages - C# and C++|- Strong Analytical and Organizational Ability|
+|||
 
 
 ## Job Examples
