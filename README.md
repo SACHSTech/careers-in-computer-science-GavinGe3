@@ -24,7 +24,7 @@ For many positions, a bachelors in computer science or a related degree such as 
 |- Testing and Debugging Code|- Familiarity with playing video games|
 
 # Standard Education: [Waterloo Computer Science](https://uwaterloo.ca/future-students/programs/computer-science)
-<img src = "https://uwaterloo.ca/brand/sites/ca.brand/files/styles/body-500px-wide/public/uploads/images/logo-horizontal-.jpg?itok=ZJxFDtnU">
+<img src = "https://uwaterloo.ca/brand/sites/ca.brand/files/styles/body-500px-wide/public/uploads/images/logo-horizontal-.jpg?itok=ZJxFDtnU" width = "500" height = "200">
 
 Waterloo's Computer Science program prepares students to work at the leading tech companies in the world, and offers many co-op opportunities to gain work experience in the gaming industry. It is currently ranked as the #1 Computer Science school in Canada.
 
@@ -68,15 +68,14 @@ All Amounts are reported in $CAD
 |Junior Level (Junior Game Developer):|$65,625|
 |Senior Level (Senior Game Developer):|$105,000|
 
-## Entry Level Job Example: [Virtual Reality Video Game Tester](https://ca.indeed.com/viewjob?jk=a4bb0ff14a9665a0&q=Video+Game+Tester&tk=1gf2gg9lsi4nd800&from=web&advn=9370729205843301&adid=352441662&ad=-6NYlbfkN0CAgiIUVMiIIrU-EFO0kyDa1Cif-dfpbc3Yi1vKdtX8LsM4alTT3U3E6__iibEoT7z8vaIpwAO3HX_kQTKWS31--Y5RlFu8h5D1UePMZqomwU6JFsNp93Nzdz1oc6ds9pzQis6HkwBQ3HbbVTtORYwK24FZ0QApngVEqTBb1UK4_KtjCEb8QIc9lrQxtcPjTWQ0B1n5DbWCcskaV0z8d1-0N1lAVJtXWZZIvpE6bl8CfqOD_s8SCje1WSuGqHqLgFcGAqQ8VLle6To8ESLbmINq66ZtU_INr12tSEJDr9lMXJ32Mz1pvzLiyNKLyL1JMtqPAb2m8Zul94bsSwF0-9lh6KCpxoIqC_914HdjWfp1enKhpH9csw22-Jz42Xl45wk%3D&sjdu=L8y54uRCiXp8qRNAlALZuGPErUu6QUioNbD2d_wDw2Bc2z_DhuIu0nymXUQVjZV0&acatk=1gf2hgj3gk6ei800&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoDu-_M3YipO4pRiDx0LbzkdCdPP&vjs=3):
-<img src = "https://igda-website.s3.us-east-2.amazonaws.com/wp-content/uploads/2021/08/18115855/Keywords-e1629303183774.png" width = "500" height = "100">
+## Entry Level Job Example: [Virtual Reality Video Game Tester](https://ca.indeed.com/viewjob?jk=a4bb0ff14a9665a0&q=Video+Game+Tester&tk=1gf2gg9lsi4nd800&from=web&advn=9370729205843301&adid=352441662&ad=-6NYlbfkN0CAgiIUVMiIIrU-EFO0kyDa1Cif-dfpbc3Yi1vKdtX8LsM4alTT3U3E6__iibEoT7z8vaIpwAO3HX_kQTKWS31--Y5RlFu8h5D1UePMZqomwU6JFsNp93Nzdz1oc6ds9pzQis6HkwBQ3HbbVTtORYwK24FZ0QApngVEqTBb1UK4_KtjCEb8QIc9lrQxtcPjTWQ0B1n5DbWCcskaV0z8d1-0N1lAVJtXWZZIvpE6bl8CfqOD_s8SCje1WSuGqHqLgFcGAqQ8VLle6To8ESLbmINq66ZtU_INr12tSEJDr9lMXJ32Mz1pvzLiyNKLyL1JMtqPAb2m8Zul94bsSwF0-9lh6KCpxoIqC_914HdjWfp1enKhpH9csw22-Jz42Xl45wk%3D&sjdu=L8y54uRCiXp8qRNAlALZuGPErUu6QUioNbD2d_wDw2Bc2z_DhuIu0nymXUQVjZV0&acatk=1gf2hgj3gk6ei800&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoDu-_M3YipO4pRiDx0LbzkdCdPP&vjs=3)
+<img src = "https://igda-website.s3.us-east-2.amazonaws.com/wp-content/uploads/2021/08/18115855/Keywords-e1629303183774.png" width = "500" height = "200">
 
 Becoming a QA tester is a good entry level position to gain experience in the gaming industry, to prepare you for more senior positions. 
 This job offer from Keyword Studios is a classic testing position with a twist, as you'll be testing VR games and reporting any issues and bugs to help the developers improve their game. 
 
 ## Job Description from Listing:
->Full Job Description
-Keywords Studios Montreal is looking for motivated video gamer testers, experienced with VR games, to join our team. #kwsl
+>Keywords Studios Montreal is looking for motivated video gamer testers, experienced with VR games, to join our team. #kwsl
 
 ### Compensation: 
 - $16.20 CAD per hour (bonus of $2.50/hr. after 7:00 PM)
@@ -118,7 +117,7 @@ CD Projekt Red is a well known game development company that has produced renown
 - Excellent knowledge of C++ coding principles and practices with at least 2+ years of professional experience
 
 
-## High Level Example: [Robert Half: Senior C# Unity Developer](https://www.glassdoor.ca/job-listing/senior-multiplayer-level-designer-torn-banner-studios-JV_IC2281069_KO0,33_KE34,53.htm?jl=1008168645144&pos=101&ao=1110586&s=58&guid=00000183c519a20c8cbdd99f288eb363&src=GD_JOB_AD&t=SR&vt=w&uido=360A4A49BB7902DF392832BD588CD550&cs=1_f9bbf5eb&cb=1665459135304&jobListingId=1008168645144&cpc=AF8BC9077DDDE68D&jrtk=3-0-1gf2hj8huihmj801-1gf2hj8j3ghpg800-f33377747c225397--6NYlbfkN0CgBgcxuOwrlzWFp0xvOgllyDb1Hw7UsKEX_IsXppgvM_rqWaMtOxN2wqfijZqCAe0J9p0M0K4Vv-OiWMamNRo7psO6D8b2s5Lb9vQi_cqddiAyi3OzOcOHoNhy4pzy30sverUFdZSF3tUSuIzL4gcsMrO9UZ-Oif_CXst44rfKtNuC7509FRFg0P4u16YusT9wpOyQ3WjhL7Oc_tfl149O4aJBblq_Ei5DVdHWaGkUdg6r_NeHxVrMmgEZxULVtWNr6bvQiocMFcNgslQWFhuizA4iYsM_ZH_L_QLwU2YvltQb9bYSftkBBGbxaKK5ZqzpKrm_eSrSawmT9kNVWafFK82xp3o1rD4TQ_P_vHNAoZ0NQ-L9TXlCi2QSEM34x-KJffbZtStN4ohvw5WmBsk7qQNGSdNkvMOLX3LpI97v3vdCuQ6X7kWCeUQm0EQ724xb_NslS15qmQ%253D%253D&ctt=1665459145918)
+## High Level Example: [Robert Half: Senior C# Unity Developer](https://www.glassdoor.ca/job-listing/senior-c-unity-developer-robert-half-JV_IC2278756_KO0,24_KE25,36.htm?jl=1007705385486&pos=115&ao=1110586&s=58&guid=00000183c5200367b3f1dedcc29aec5b&src=GD_JOB_AD&t=SR&vt=w&uido=360A4A49BB7902DF392832BD588CD550&ea=1&cs=1_823f9a5f&cb=1665459553435&jobListingId=1007705385486&cpc=3BA4CE39D5B5DEF5&jrtk=3-0-1gf2i00spg2ql801-1gf2i00tjih6p800-308187cad35af615--6NYlbfkN0CkZrmoNIfNnv5K6heJNTgcHXgr0H7cYcF0-Q8gfPuoOdPpnl151udErR8IWC9FaT31i53Zpf7uJnfDRznU0zwmao7RoEtETD5gF2z-RPEvviEGjt-eqC5bfvfrx0QQOKBxZAXKbk_olH6ojsxjn7gekyazbBV0ViK2JyBGNjZh-ygfy8K9ZHr6_13JCXNtQU1X5c-Rd8xGI1kMxgGwYFfixcMvqSArnsjYWnSJqgRxoNcLuLUtnhx849Un8LpNK54__lHzZKeLqdsAhpW-NdLonvqDFIAkfuBTn9LFk8zcr4WGMN_u16UevC7M5512bT83wvQGxV4mj5hmA5RUKPOcu5C7oVkTBvl9QxZm65R0X12r9KAumexsrgbK7UhJ6dDUoca2ayM8MynFYTZJWk2Q_Dr95_FsC3TJVebgvz5WW8jOMz_glBBe8dtv06I_atCmjXSe05jEeEjUKzRT8DDEvfgpmN7uL9lIvMePsoPNsjrHllkNgy7PTguMliQhE0u8QGnapYw6MQ0dTbv9npDFqGdH_dE8iE6FMwsD219cyePdJuJuRxXJQxDLoY1EEbjBa5rmTU4jgg%253D%253D&ctt=1665459766579)
 
 
 ### Job Descriptions from Listing:
@@ -128,17 +127,17 @@ This is a full-time position that includes a competitive base salary, extended h
 This role is attractive because you’ll have a chance to work on a small, nimble team of experienced game developers. The founders of this company have achieved huge commercial success in their previous ventures, and they are already repeating their success in this most recent endeavor. As a member of the dev team, you’ll have the freedom to make decisions, and to truly influence the design and architecture of the software. If you have specifically been looking for a chance to join a smaller more agile team, this could be a great opportunity for you.
 
 ### Compensation: 
-- $140,000
+- $140,000 CAD
 
 ### City
-- Vancouver, BC
+- Located in Vancouver, BC
 
 ### Required Skills and Qualifications: 
-- You have shipped one or more game titles on iOS, Android, Playstation, Xbox, etc.
-- You have five or more years of commercial software development experience
+- Shipped one or more game titles on iOS, Android, Playstation, Xbox, etc.
+- Five or more years of commercial software development experience
 
 ## Experiential Learning
-<img src = "https://www.educationcorner.com/images/featured-experiential-learning-guide.jpg" width = "600" height = "200">
+<img src = "https://www.educationcorner.com/images/featured-experiential-learning-guide.jpg" width = "700" height = "200">
 
 ### Co-op Programs:
 Waterloo's Computer Science program offers their students many co-op opportunities while studying at the same time. Some companies where students go to co-op include Microsoft, Google, and NVIDIA Corporation. Additionally, Waterloo students earn between $8400 and $19,800 per work term in Canada, making it a great way to earn a good chunk of change and build experience at the same time.
