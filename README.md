@@ -170,27 +170,27 @@ For less than $500 dollars and and 6-14 hour a week commitment, this certificate
 
 “Game Developer 101: The In-Depth Guide for 2018.” The Ultimate Resource for Video Game Design, 12 May 2018, www.gamedesigning.org/career/game-developer/.
 
-“Game Developer Salary in Canada - Average Salary.” Talent.com, ca.talent.com/salary?job=game+developer.
+“Game Developer Salary in Canada - Average Salary.” Talent.com, www.ca.talent.com/salary?job=game+developer.
 
-“Game Tester Salary in Canada - Average Salary.” Talent.com, ca.talent.com/salary?job=game+tester#:~:text=The%20average%20game%20tester%20salary%20in%20Canada%20is%20%2432%2C516%20per. Accessed 11 Oct. 2022.
+“Game Tester Salary in Canada - Average Salary.” Talent.com, www.ca.talent.com/salary?job=game+tester#:~:text=The%20average%20game%20tester%20salary%20in%20Canada%20is%20%2432%2C516%20per. Accessed 11 Oct. 2022.
 
-“Gameplay Programmer.” CD PROJEKT RED, jobs.smartrecruiters.com/CDPROJEKTRED/743999853257656-gameplay-programmer. Accessed 11 Oct. 2022.
+“Gameplay Programmer.” CD PROJEKT RED, htts://jobs.smartrecruiters.com/CDPROJEKTRED/743999853257656-gameplay-programmer. Accessed 11 Oct. 2022.
 
 Senior C# Unity Developer. www.glassdoor.ca/job-listing/senior-c-unity-developer-robert-half-JV_IC2278756_KO0,24_KE25,36.htm?jl=1007705385486&pos=115&ao=1110586&s=58&guid=00000183c5200367b3f1dedcc29aec5b&src=GD_JOB_AD&t=SR&vt=w&uido=360A4A49BB7902DF392832BD588CD550&ea=1&cs=1_823f9a5f&cb=1665459553435&jobListingId=1007705385486&cpc=3BA4CE39D5B5DEF5&jrtk=3-0-1gf2i00spg2ql801-1gf2i00tjih6p800-308187cad35af615--6NYlbfkN0CkZrmoNIfNnv5K6heJNTgcHXgr0H7cYcF0-Q8gfPuoOdPpnl151udErR8IWC9FaT31i53Zpf7uJnfDRznU0zwmao7RoEtETD5gF2z-RPEvviEGjt-eqC5bfvfrx0QQOKBxZAXKbk_olH6ojsxjn7gekyazbBV0ViK2JyBGNjZh-ygfy8K9ZHr6_13JCXNtQU1X5c-Rd8xGI1kMxgGwYFfixcMvqSArnsjYWnSJqgRxoNcLuLUtnhx849Un8LpNK54__lHzZKeLqdsAhpW-NdLonvqDFIAkfuBTn9LFk8zcr4WGMN_u16UevC7M5512bT83wvQGxV4mj5hmA5RUKPOcu5C7oVkTBvl9QxZm65R0X12r9KAumexsrgbK7UhJ6dDUoca2ayM8MynFYTZJWk2Q_Dr95_FsC3TJVebgvz5WW8jOMz_glBBe8dtv06I_atCmjXSe05jEeEjUKzRT8DDEvfgpmN7uL9lIvMePsoPNsjrHllkNgy7PTguMliQhE0u8QGnapYw6MQ0dTbv9npDFqGdH_dE8iE6FMwsD219cyePdJuJuRxXJQxDLoY1EEbjBa5rmTU4jgg%253D%253D&ctt=1665459766579.
 
 “Video Game Developer Job Description.” Betterteam, www.betterteam.com/video-game-developer-job-description#:~:text=Video%20Game%20Developers%2C%20also%20known.
 
-“Virtual Reality Video Game Tester - Montreal.” Indeed, ca.indeed.com/viewjob?jk=a4bb0ff14a9665a0&q=Video+Game+Tester&tk=1gf2gg9lsi4nd800&from=web&advn=9370729205843301&adid=352441662&ad=-6NYlbfkN0CAgiIUVMiIIrU-EFO0kyDa1Cif-dfpbc3Yi1vKdtX8LsM4alTT3U3E6__iibEoT7z8vaIpwAO3HX_kQTKWS31--Y5RlFu8h5D1UePMZqomwU6JFsNp93Nzdz1oc6ds9pzQis6HkwBQ3HbbVTtORYwK24FZ0QApngVEqTBb1UK4_KtjCEb8QIc9lrQxtcPjTWQ0B1n5DbWCcskaV0z8d1-0N1lAVJtXWZZIvpE6bl8CfqOD_s8SCje1WSuGqHqLgFcGAqQ8VLle6To8ESLbmINq66ZtU_INr12tSEJDr9lMXJ32Mz1pvzLiyNKLyL1JMtqPAb2m8Zul94bsSwF0-9lh6KCpxoIqC_914HdjWfp1enKhpH9csw22-Jz42Xl45wk%3D&sjdu=L8y54uRCiXp8qRNAlALZuGPErUu6QUioNbD2d_wDw2Bc2z_DhuIu0nymXUQVjZV0&acatk=1gf2hgj3gk6ei800&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoDu-_M3YipO4pRiDx0LbzkdCdPP&vjs=3.
+“Virtual Reality Video Game Tester - Montreal.” Indeed, www.ca.indeed.com/viewjob?jk=a4bb0ff14a9665a0&q=Video+Game+Tester&tk=1gf2gg9lsi4nd800&from=web&advn=9370729205843301&adid=352441662&ad=-6NYlbfkN0CAgiIUVMiIIrU-EFO0kyDa1Cif-dfpbc3Yi1vKdtX8LsM4alTT3U3E6__iibEoT7z8vaIpwAO3HX_kQTKWS31--Y5RlFu8h5D1UePMZqomwU6JFsNp93Nzdz1oc6ds9pzQis6HkwBQ3HbbVTtORYwK24FZ0QApngVEqTBb1UK4_KtjCEb8QIc9lrQxtcPjTWQ0B1n5DbWCcskaV0z8d1-0N1lAVJtXWZZIvpE6bl8CfqOD_s8SCje1WSuGqHqLgFcGAqQ8VLle6To8ESLbmINq66ZtU_INr12tSEJDr9lMXJ32Mz1pvzLiyNKLyL1JMtqPAb2m8Zul94bsSwF0-9lh6KCpxoIqC_914HdjWfp1enKhpH9csw22-Jz42Xl45wk%3D&sjdu=L8y54uRCiXp8qRNAlALZuGPErUu6QUioNbD2d_wDw2Bc2z_DhuIu0nymXUQVjZV0&acatk=1gf2hgj3gk6ei800&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoDu-_M3YipO4pRiDx0LbzkdCdPP&vjs=3.
 
-“Waterloo Logo.” Brand, 30 Jan. 2020, uwaterloo.ca/brand/how-express-our-brand/waterloo-logo.
+“Waterloo Logo.” Brand, 30 Jan. 2020, www.uwaterloo.ca/brand/how-express-our-brand/waterloo-logo.
 
 “What Is a Game Developer (and How Do I Become One)?” Coursera, www.coursera.org/articles/game-developer.
 
 Educationcorner.com, 2022, www.educationcorner.com/images/featured-experiential-learning-guide.jpg. Accessed 11 Oct. 2022.
 
-Amazonaws.com, 2022, igda-website.s3.us-east-2.amazonaws.com/wp-content/uploads/2021/08/18115855/Keywords-e1629303183774.png. Accessed 11 Oct. 2022.
+Works Cited Keywords Studios – IGDA. www.igda.org/news-archive/keywords-studios/. Accessed 11 Oct. 2022.
 
-Cdprojektred.com, 2022, cdprojektred.com/build/images/cdpr-default-907a37ee.jpg. Accessed 11 Oct. 2022.
+Cdprojektred.com, 2022, www.cdprojektred.com/build/images/cdpr-default-907a37ee.jpg. Accessed 11 Oct. 2022.
 
 
 
