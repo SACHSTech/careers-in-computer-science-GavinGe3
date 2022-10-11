@@ -15,9 +15,9 @@ A game developer is a person who creates the software that makes a game function
 ## Required Education:
 For many positions, a bachelors in computer science or a related degree such as computer engineering, is preferred. 
 
-## Technical and soft skills: 
+## Technical and Non-Technical skills: 
 
-| Technical Skills|Soft Skills|
+| Technical Skills|Non-Technical Skills|
 |:-------------:|:-----:|
 |- Experience with game development engines such as Unreal Engine and Unity| - Interpersonal skills and the ability to work in a team environment|
 |- The ability to code in common game programming languages - C# and C++| - Strong Analytical and problem solving Ability|
